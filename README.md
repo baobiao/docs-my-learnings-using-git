@@ -13,3 +13,6 @@ syntax.  So here is my *story* about this journey to Git.
 ### About Me
 Q: What do I do for a living?
 >I'm a technology consultant that design and implement solutions for customers.
+
+Q: WhoAmI?
+>Husband, Father, Son, Programmer, Solution Architect.
