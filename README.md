@@ -8,7 +8,7 @@ a type of Git as their source code management (SCM) system.  Of course no client
 names are mentioned here.
 
 I will also like to take this chance to practice the GitHub flavored markdown
-syntax.  So here is my *story* about this journey to Git.
+syntax.  So here is my *story* about this journey to Git. :tada::tada::tada:
 
 ### About Me
 Q: What do I do for a living?
