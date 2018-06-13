@@ -19,3 +19,6 @@ Q: WhoAmI?
 
 Q: Why am I writing this?
 > Read the Introduction.
+
+Q: Is this also a test bed to demo Git processes?
+> Most likely Yes.
