@@ -16,3 +16,6 @@ Q: What do I do for a living?
 
 Q: WhoAmI?
 >Husband, Father, Son, Programmer, Solution Architect.
+
+Q: Why am I writing this?
+> Read the Introduction.
